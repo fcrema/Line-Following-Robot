@@ -1,6 +1,6 @@
 ///change the potentiometers, and values depending on the sensor to adjust sensitivity
 /*
-
+This is the code I wrote to create a robot that could follow any line made of electrical tape placed on the ground. I used an Arduino Uno for this project. The theory behind it is that depending on the combination of 5 sensors placed in a row detecting the line, the robot would know which direction to turn towards (left, right, or straight), or even backtrack to realign itself.
 
 
 
