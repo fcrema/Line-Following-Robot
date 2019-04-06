@@ -1,5 +1,11 @@
 ///change the potentiometers, and values depending on the sensor to adjust sensitivity
+/*
 
+
+
+
+
+*/
 // These constants won't change. They're used to give names to the pins used:
 const int sensor1 = A0;  // Analog input pin that the potentiometer is attached to
 const int led1 = 2; //Digital output pin that the LED is attached to
